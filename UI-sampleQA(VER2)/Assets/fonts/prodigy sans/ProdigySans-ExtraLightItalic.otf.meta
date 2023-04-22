@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0334cb4620485bd4cb487cbf858a9b56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Prodigy Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d18a288e16f0e244e91d763a5bb10734, type: 3}
+  - {fileID: 12800000, guid: a23303050f4b2634a856fd5f0c54719d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
