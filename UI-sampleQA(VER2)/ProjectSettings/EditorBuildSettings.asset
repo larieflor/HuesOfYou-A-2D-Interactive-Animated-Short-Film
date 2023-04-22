@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/act.unity
+    guid: 19fc0ef714e6506408182acccb43ef79
+  - enabled: 1
+    path: Assets/scenes/act1.unity
+    guid: 5504ecd7d15617946b6799c1222806c3
+  - enabled: 1
+    path: Assets/scenes/act2.unity
+    guid: b181d145f539b3c489df613cbff2a9ff
+  - enabled: 1
+    path: Assets/scenes/act3-opt.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/scenes/normalended.unity
+    guid: 2132516234305a94f8869d0e2f50a746
+  - enabled: 1
+    path: Assets/scenes/pro-opt.unity
+    guid: 426a972a978b79b429cf7dbf6e871a8f
+  - enabled: 1
+    path: Assets/scenes/tri-opt.unity
+    guid: e4d8d8668e8c2b94ab044a6eaf625c73
+  - enabled: 1
+    path: Assets/scenes/deu-opt.unity
+    guid: 11c4938391afd934cbb1bf64b66f1ef4
+  - enabled: 1
+    path: Assets/scenes/playnormal.unity
+    guid: b230ed2902b0e734f81168fe59243aee
+  - enabled: 1
+    path: Assets/scenes/playDB.unity
+    guid: f690a92539baaab43a9e7dac1d775de6
+  - enabled: 1
+    path: Assets/scenes/playDW.unity
+    guid: c260f0a500828f448850956cf8625a0a
+  - enabled: 1
+    path: Assets/scenes/playPB.unity
+    guid: ec6f59f76abd1904b9fb39f208a46b0c
+  - enabled: 1
+    path: Assets/scenes/playPW.unity
+    guid: 45d57d8dc1152614284c03873b9458f0
+  - enabled: 1
+    path: Assets/scenes/playTB.unity
+    guid: 1f4ded07cbb56d143afe1764e54d68d0
+  - enabled: 1
+    path: Assets/scenes/playTW.unity
+    guid: 6189f2d37b7ff0448bc78e2c66a8cc6e
+  - enabled: 1
+    path: Assets/scenes/DBlind.unity
+    guid: 51379ffed93377848b6cc6a52504c483
+  - enabled: 1
+    path: Assets/scenes/DWeak.unity
+    guid: 37f71f02d385c82489ffa13790915cfb
+  - enabled: 1
+    path: Assets/scenes/PBlind.unity
+    guid: 79bf41abdadc7db44922aa130508e6c9
+  - enabled: 1
+    path: Assets/scenes/PWeak.unity
+    guid: 93617583dc5b58e43b95c0075bfc3d33
+  - enabled: 1
+    path: Assets/scenes/TBlind.unity
+    guid: 23a5bd55dc8cae942b21d5380e1155c5
+  - enabled: 1
+    path: Assets/scenes/TWeak.unity
+    guid: 817ad89174b07db4f805c5ac2daac54a
+  - enabled: 1
+    path: Assets/scenes/Normal.unity
+    guid: 34b8284a611ff4c4f84bf632c9904636
+  - enabled: 1
+    path: Assets/scenes/movieended.unity
+    guid: 0bf514845030a6b4bbe615cb37739d4a
+  - enabled: 1
+    path: Assets/scenes/QAstart.unity
+    guid: acac45fea9cb1834483c8c173998c7b1
+  - enabled: 1
+    path: Assets/scenes/QA1.unity
+    guid: 16e97e80b0374b84ebf6922b732a73a4
+  - enabled: 1
+    path: Assets/scenes/QA2.unity
+    guid: 13c48944eb6787e408d05758e0953aaa
+  - enabled: 1
+    path: Assets/scenes/QA3.unity
+    guid: 837fed50e2819024c83f022f2bacb168
+  - enabled: 1
+    path: Assets/scenes/QA4.unity
+    guid: 92096be0d81239d4087179d80a906bfd
+  - enabled: 1
+    path: Assets/scenes/QA5.unity
+    guid: 9346ee9cb097cfc4ca99fd7157cbcb75
+  - enabled: 1
+    path: Assets/scenes/QA6.unity
+    guid: c6d010cd948be7e4f9d5367bc9131695
+  - enabled: 1
+    path: Assets/scenes/QA7.unity
+    guid: f34a365b4690f75419b79fade90ed836
+  - enabled: 1
+    path: Assets/scenes/QA8.unity
+    guid: 047f2507df1c91e41bdd6b2fae72e9ef
+  - enabled: 1
+    path: Assets/scenes/QA9.unity
+    guid: c46c7f226d2e13741bb34f68d2cdadf4
+  - enabled: 1
+    path: Assets/scenes/QA10.unity
+    guid: 58f55c9b3b542b74b883e527e48e8d66
+  - enabled: 1
+    path: Assets/scenes/QA11.unity
+    guid: 037f9bb58f15d6f4ab898fe52493cf47
+  - enabled: 1
+    path: Assets/scenes/QA12.unity
+    guid: c514217158fe6574b8f717e4aca986c7
+  - enabled: 1
+    path: Assets/scenes/QAtotal.unity
+    guid: 186da1fe2eb3d1d44a3dc8a9c1694c87
+  - enabled: 1
+    path: Assets/scenes/QAend.unity
+    guid: 9f0cc0a369030614fbcb65163ab344ef
+  m_configObjects: {}
