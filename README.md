@@ -1,4 +1,4 @@
-# HuesOfYou: A 2D Interactive Animated Short Film
+# Hues Of You: A 2D Interactive Animated Short Film
 
 Color is one of the factors that contribute to the life of any object. The colors are the first thing that someone notices when they look at a piece of art. However, if the eyes are damaged in any way, whether physically or chemically, or as a result of inherited genes from the parents, faulty photo pigments in the eyes will result in color deficiency or color blindness (WebMD, 2021). 
 
