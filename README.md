@@ -13,7 +13,6 @@ Specifically, this study aims to:
 
 Each one of the objectives were successfully tackled, and given solutions.
 
-
 LINK TO THE FINAL BUILD, PAPER, & MANUAL:
 
 Link: 
@@ -25,18 +24,20 @@ A real-time development platform. Unity is a cross-platform game engine develope
 GROUP MEMBERS
 Hilary Ann P. Denura
 Ma. Dyzza E. Espino
-Dionise Marie F. Loretizo
+Lara Dionise Marie F. Loretizo
 Nissi Joy A. Mana-ay
 Winzee Dawn C. Panunciar
+
+
 INSTALLATION
 
-Download the File from the Google Drive Link provided. 
-Select the dll. 
-Open “HuesOfYou-A-2D-Interactive-Animated-Short-
-Film-Application” file.
-Inside the “HuesOfYou-A-2D-Interactive-Animated-Short-
-Film-Application” file, open the “Build_App” file.
-Open the “huesofyou.exe” file and wait for it to open.
+1. Download the File from the Google Drive Link provided. 
+2. Select the dll. 
+3. Open “HuesOfYou-A-2D-Interactive-Animated-Short-
+4. Film-Application” file.
+5. Inside the “HuesOfYou-A-2D-Interactive-Animated-Short-
+6. Film-Application” file, open the “Build_App” file.
+7. Open the “huesofyou.exe” file and wait for it to open.
 
 
 Copyright ©2023
