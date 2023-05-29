@@ -33,11 +33,9 @@ INSTALLATION
 
 1. Download the File from the Google Drive Link provided. 
 2. Select the dll. 
-3. Open “HuesOfYou-A-2D-Interactive-Animated-Short-
-4. Film-Application” file.
-5. Inside the “HuesOfYou-A-2D-Interactive-Animated-Short-
-6. Film-Application” file, open the “Build_App” file.
-7. Open the “huesofyou.exe” file and wait for it to open.
+3. Open “HuesOfYou-A-2D-Interactive-Animated-Short-Film-Application” file.
+4. Inside the “HuesOfYou-A-2D-Interactive-Animated-Short-Film-Application” file, open the “Build_App” file.
+5. Open the “huesofyou.exe” file and wait for it to open.
 
 
 Copyright ©2023
