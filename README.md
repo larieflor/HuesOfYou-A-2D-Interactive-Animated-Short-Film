@@ -23,11 +23,12 @@ UNITY:
 A real-time development platform. Unity is a cross-platform game engine developed by Unity Technologies that was first unveiled and launched as a Mac OS X game engine in June 2005 at the Apple Worldwide Developers Conference. The programming language that was used in Unity is C#. All of the languages used by Unity are object-oriented scripting languages. Scripting languages, like any other language, include syntax, or parts of speech, with the key parts being variables, functions, and classes. 
 
 GROUP MEMBERS:
-Hilary Ann P. Denura
-Ma. Dyzza E. Espino
-Lara Dionise Marie F. Loretizo
-Nissi Joy A. Mana-ay
-Winzee Dawn C. Panunciar
+
+- Hilary Ann P. Denura
+- Ma. Dyzza E. Espino
+- Lara Dionise Marie F. Loretizo
+- Nissi Joy A. Mana-ay
+- Winzee Dawn C. Panunciar
 
 
 
