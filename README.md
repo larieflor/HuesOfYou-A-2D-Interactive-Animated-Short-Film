@@ -31,7 +31,8 @@ Winzee Dawn C. Panunciar
 
 INSTALLATION
 
-1. Download the File from the Google Drive Link provided. 
+EXE file ( https://drive.google.com/drive/folders/1Zbf3hKiGeuiep9HaEi7aQLXynRAJa8jp?usp=sharing )
+1. Download the File from the Google Drive Link provided above.
 2. Select the dll. 
 3. Open “HuesOfYou-A-2D-Interactive-Animated-Short-Film-Application” file.
 4. Inside the “HuesOfYou-A-2D-Interactive-Animated-Short-Film-Application” file, open the “Build_App” file.
