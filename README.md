@@ -15,7 +15,7 @@ Each one of the objectives were successfully tackled, and given solutions.
 
 LINK TO THE FINAL BUILD, PAPER, & MANUAL:
 
-Link: https://drive.google.com/drive/folders/1x6Zh1cW4Ef7C3_86Ko2oxJskPj32k59J?fbclid=IwAR3xlvOjwYdyElN7T0-iSbpMg0gEULP1VJMEb9KZRVJqSTvI2Vd1Ip9ymy8
+https://drive.google.com/drive/folders/1x6Zh1cW4Ef7C3_86Ko2oxJskPj32k59J?fbclid=IwAR3xlvOjwYdyElN7T0-iSbpMg0gEULP1VJMEb9KZRVJqSTvI2Vd1Ip9ymy8
 
 UNITY: 
 
